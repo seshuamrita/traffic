@@ -1,0 +1,13 @@
+{	"NumberofColumns" : 9,
+	"ColName": {
+		"holiday" : "VARCHAR",
+	"temp" : "FLOAT",
+	"rain_1h" : "FLOAT",
+	"snow_1h" : "FLOAT",
+	"clouds_all" : "FLOAT",
+	"weather_main" : "VARCHAR",
+	"weather_description" : "VARCHAR",
+	"date_time": "VARCHAR",
+	"traffic_volume": "FLOAT"
+	}
+}
